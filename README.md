@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Assistant-Bagz
-- 👀 I’m interested in ... Bagz
-- 🌱 I’m currently learning ... Buttons
-- 💞️ I’m looking to collaborate on ... Assisting
+- 👀 I’m interested in Bagz
+- 🌱 I’m currently learning Buttons
 - 📫 How to reach me ... allmylinks.com/@splashtown92
 
 <!---
